@@ -1,3 +1,0 @@
-include: [".bundle", ".json", ".hash"]
-commoner:
-  cors: true
